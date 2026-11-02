@@ -1,0 +1,78 @@
+{
+  "app/page.tsx -> ../src/App": {
+    "id": "app/page.tsx -> ../src/App",
+    "files": [
+      "static/chunks/_app-pages-browser_src_App_tsx.js"
+    ]
+  },
+  "node_modules/jspdf/dist/jspdf.es.min.js -> canvg": {
+    "id": "node_modules/jspdf/dist/jspdf.es.min.js -> canvg",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_canvg_lib_index_es_js.js"
+    ]
+  },
+  "node_modules/jspdf/dist/jspdf.es.min.js -> dompurify": {
+    "id": "node_modules/jspdf/dist/jspdf.es.min.js -> dompurify",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_dompurify_dist_purify_es_mjs.js"
+    ]
+  },
+  "node_modules/jspdf/dist/jspdf.es.min.js -> html2canvas": {
+    "id": "node_modules/jspdf/dist/jspdf.es.min.js -> html2canvas",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_html2canvas_dist_html2canvas_js.js"
+    ]
+  },
+  "src/App.tsx -> ./components/CategoriesActorsView": {
+    "id": "src/App.tsx -> ./components/CategoriesActorsView",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_CategoriesActorsView_tsx.js"
+    ]
+  },
+  "src/App.tsx -> ./components/DocumentGeneratorView": {
+    "id": "src/App.tsx -> ./components/DocumentGeneratorView",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_DocumentGeneratorView_tsx.js"
+    ]
+  },
+  "src/App.tsx -> ./components/FicheTechniquePages": {
+    "id": "src/App.tsx -> ./components/FicheTechniquePages",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_FicheTechniquePages_tsx.js"
+    ]
+  },
+  "src/App.tsx -> ./components/GanttAndTreeView": {
+    "id": "src/App.tsx -> ./components/GanttAndTreeView",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_GanttAndTreeView_tsx.js"
+    ]
+  },
+  "src/App.tsx -> ./components/GarMethodologyViews": {
+    "id": "src/App.tsx -> ./components/GarMethodologyViews",
+    "files": []
+  },
+  "src/App.tsx -> ./components/InternalActorProfileModal": {
+    "id": "src/App.tsx -> ./components/InternalActorProfileModal",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_InternalActorProfileModal_tsx.js"
+    ]
+  },
+  "src/App.tsx -> ./components/OperationalMatrices": {
+    "id": "src/App.tsx -> ./components/OperationalMatrices",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_OperationalMatrices_tsx.js"
+    ]
+  },
+  "src/App.tsx -> ./components/QrBarcodeScannerModal": {
+    "id": "src/App.tsx -> ./components/QrBarcodeScannerModal",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_QrBarcodeScannerModal_tsx.js"
+    ]
+  },
+  "src/App.tsx -> ./components/SuperAdminDashboardView": {
+    "id": "src/App.tsx -> ./components/SuperAdminDashboardView",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_SuperAdminDashboardView_tsx.js"
+    ]
+  }
+}

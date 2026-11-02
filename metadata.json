@@ -1,0 +1,6 @@
+{
+  "name": "FAAB GAR — Gestion Axée sur les Résultats & Planification",
+  "description": "Plateforme Universelle de Gestion Axée sur les Résultats (GAR), Planification Stratégique, Réseau PERT, Matrice RACI, Suivi-Évaluation, CMR, Modèle Logique, Risques, CLAR et Générateur de 10 Documents Institutionnels.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
